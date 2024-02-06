@@ -13,5 +13,5 @@
  
 
 <div align="center">
-    <img width="350px" alt="layout" src="https://github.com/AdrianPGM/Easy-Shopping/blob/master/eas-shopping/assets/layout.png?raw=true"/>
+    <img width="350px" alt="layout" src="https://github.com/AdrianPGM/Easy-Shopping/blob/master/assets/layout.png?raw=true"/>
 <div>
