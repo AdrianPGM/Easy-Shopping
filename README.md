@@ -3,7 +3,7 @@
 <a align="center" href="https://www.linkedin.com/in/adrian-oliveira-74801b2b2/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
 <br>
-<p>Ola tudo bem? Hoje estou apresentando um novo projeto meu, o Easy Shopping. Feito com as duas principais tecnologias utilizadas no Front End, e como adicional ele não e compativel so com computadores mas tambem com smartphones.</p>
+<p>Olá tudo bem? Hoje estou apresentando um novo projeto meu, o Easy Shopping. Feito com as duas principais tecnologias utilizadas no Front End, e como adicional é uma aplicação responsiva, funcionando não só apenas para computadores mas tambem em smartphones.</p>
 
 <h1>Tecnologias:</h1>
 
