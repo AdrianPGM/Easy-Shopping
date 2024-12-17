@@ -5,7 +5,8 @@ web. O objetivo era aumentar o conhecimento e a experiencia sobre HTML5, CSS e s
 
 ## 📸 Page-Preview
 
-<img>
+<img src="assets/Macbook Mockup Front View UV (1).png">
+
 ## 👷🏻‍♀️ Tecnologias Utilizadas
 
 - HTML
